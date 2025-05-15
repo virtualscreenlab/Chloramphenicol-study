@@ -102,5 +102,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please contact [shityakoff@hotmail.com] or open an issue in the repository.
+For questions or feedback, please contact Prof. Sergey Shityakov [shityakoff@hotmail.com] or open an issue in the repository.
 
