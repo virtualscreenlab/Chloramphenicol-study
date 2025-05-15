@@ -100,3 +100,7 @@ Contributions are welcome! Please submit a pull request or open an issue for sug
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Contact
+
+For questions or feedback, please contact [shityakoff@hotmail.com] or open an issue in the repository.
+
