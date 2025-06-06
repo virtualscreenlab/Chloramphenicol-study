@@ -98,7 +98,7 @@ Contributions are welcome! Please submit a pull request or open an issue for sug
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License.
 
 ## Contact
 
